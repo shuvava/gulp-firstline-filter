@@ -1,0 +1,35 @@
+{
+    "name": "gulp-firstline-filter",
+    "description": "Filter files by first line in a gulp stream",
+    "homepage": "https://github.com/mrshuvava/gulp-firstline-filter",
+    "author": {
+        "name": "Vladimir Shurygin",
+        "url": "https://github.com/shuvava/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/shuvava/gulp-firstline-filter.git"
+    },
+    "bugs": {
+        "url": "https://github.com/shuvava/gulp-firstline-filter/issues"
+    },
+    "engines": {
+        "node": ">=7.0.0"
+    },
+    "keywords": [
+        "gulp",
+        "filter",
+        "firstline"
+    ],
+    "license": "Apache-2.0",
+    "version": "0.0.1",
+    "devDependencies": {
+        "eslint": "~3.4.0",
+        "eslint-config-airbnb-base": "~5.0.2",
+        "eslint-plugin-import": "^1.14.0"
+    },
+    "dependencies": {
+        "streamfilter": "^1.0.5",
+        "lodash": "^4.7.0"
+    }
+}
