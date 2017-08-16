@@ -1,4 +1,6 @@
- const fs = require('fs');
+'use strict';
+
+const fs = require('fs');
 const streamfilter = require('streamfilter');
 const _ = require('lodash');
 

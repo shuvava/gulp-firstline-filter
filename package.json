@@ -22,7 +22,7 @@
         "firstline"
     ],
     "license": "Apache-2.0",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "devDependencies": {
         "eslint": "~3.4.0",
         "eslint-config-airbnb-base": "~5.0.2",
